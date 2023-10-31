@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Next.js13をUdemyで学ぶ",
+      "content": "shincodeさんの教材でNext.js13を学んでいます。",
+      "createdAt": "2022/07/14"
+    },
+    {
+      "id": "json-server",
+      "title": "json-serverをUdemyで学ぶ",
+      "content": "リクエスト本文の JSON は、GET 出力と同様に、オブジェクトで囲まれている必要があります。ID 値は変更できません。idPUT または PATCH リクエストの本文内の値はすべて無視されます。POST リクエストで設定された値のみが尊重されますが、それはまだ取得されていない場合に限られます。",
+      "createdAt": "2022/07/16"
+    },
+    {
+      "id": "min-h-screen",
+      "title": "Tailwind CSS クラス.min-h-screen",
+      "content": "実際のプロジェクトで.min-h-screenを確認する以下にリストされている例のいずれかをクリックすると、選択したコンポーネントを使用する UI ライブラリを含む Shuffle ビジュアル エディターが開きます。",
+      "createdAt": "2022/08/16"
+    },
+    {
+      "id": "next.js13テスト",
+      "title": "Next.js13の投稿テスト",
+      "content": "あかさたなはまやらわいろはにほへと",
+      "createdAt": "2023-10-27T08:16:15.275Z"
+    }
+  ]
+}
